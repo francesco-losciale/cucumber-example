@@ -1,0 +1,6 @@
+TODO
+
+add kafka broker docker-compose file
+add integraiton test && bootRun
+create topic for ledger
+create ktable view
